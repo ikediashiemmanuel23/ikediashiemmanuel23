@@ -1,6 +1,6 @@
 # Hi, I am Ikediashi Emmmanuel 👋
 ### I&C Engineer | Data Analyst | Quality Assurance Specialist
- I am an **Instrumentation and Control (I&C) Engineer** specialized in Data Analytics, AB PCS< ICS Triplex, and HMI Integration.
+ I am an **Instrumentation and Control (I&C) Engineer** specialized in Data Analytics, AB PCS, ICS Triplex, and HMI Integration.
  I help bridge the gap between heavy engineering and data driven strategy by utilizing  BI tools to collate raw operational data and transforming it into a **Prescriptive Analysis Engine** that justifies automated strategic actions, closes global performance gaps and drive measurable gains aligned with organizational goals.
 
  ## 📊Data Projects
