@@ -4,7 +4,7 @@
  I help bridge the gap between heavy engineering and data driven strategy by utilizing  BI tools to collate raw operational data and transforming it into a **Prescriptive Analysis Engine** that justifies automated strategic actions, closes global performance gaps and drive measurable gains aligned with organizational goals.
 
  ## 📊Data Projects
- ### [Supplier Performance & Quality Assurance Report]([https://www.novypro.com/project/suppliers-quality-performance-report](https://app.powerbi.com/view?r=eyJrIjoiOTg1YjMyZjYtYTMzOC00YWI0LWEyOTktMGQ1M2UxYzNhYmMwIiwidCI6IjMyMGFhMGNkLWZlZWEtNDlhYy1iMWYzLTQyNzBiYmQ1MjAyMSJ9))
+ ### [Supplier Performance & Quality Assurance Report](https://app.powerbi.com/view?r=eyJrIjoiOTg1YjMyZjYtYTMzOC00YWI0LWEyOTktMGQ1M2UxYzNhYmMwIiwidCI6IjMyMGFhMGNkLWZlZWEtNDlhYy1iMWYzLTQyNzBiYmQ1MjAyMSJ9)
  *An interactive Power BI engine providing a comprehensive insight on suppliers' performance and materials quality assurance (QA) highlighting how key metrics such as defect quantity and downtime hours impacts overall operations.*
 
 ## 🏗️ Projects Experience (O&G)
