@@ -7,7 +7,9 @@
  ### [Supplier Performance & Quality Assurance Report](https://app.powerbi.com/view?r=eyJrIjoiOTg1YjMyZjYtYTMzOC00YWI0LWEyOTktMGQ1M2UxYzNhYmMwIiwidCI6IjMyMGFhMGNkLWZlZWEtNDlhYy1iMWYzLTQyNzBiYmQ1MjAyMSJ9)
  *An interactive Power BI engine providing a comprehensive insight on suppliers' performance and materials quality assurance (QA) highlighting how key metrics such as defect quantity and downtime hours impacts overall operations.*
 
- ## [Global Retail Electronics Stores](https://app.powerbi.com/view?r=eyJrIjoiMWZlNjBjOGYtZmI3Zi00ZDQ1LWEwYTQtODk0ZjBkYzA4MTFmIiwidCI6IjMyMGFhMGNkLWZlZWEtNDlhYy1iMWYzLTQyNzBiYmQ1MjAyMSJ9)
+ ### [Global Retail Electronics Stores](https://app.powerbi.com/view?r=eyJrIjoiMWZlNjBjOGYtZmI3Zi00ZDQ1LWEwYTQtODk0ZjBkYzA4MTFmIiwidCI6IjMyMGFhMGNkLWZlZWEtNDlhYy1iMWYzLTQyNzBiYmQ1MjAyMSJ9)
+ *An interactive Power BI report that transforms global electronics retail data into actionable insights on sales performance, customer behavior, and product trends across regions.*
+
 
 ## 🏗️ Projects Experience (O&G)
 **I/O Panels Integration** - *Client Liaison and I&C Support*
